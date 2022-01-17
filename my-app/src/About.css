@@ -1,0 +1,12 @@
+.about {
+  width: 100vw;
+  min-height: 100vh;
+  padding: 100px 50px 50px 50px;
+}
+iframe {
+  margin: 20px;
+}
+.images {
+  display: flex;
+  width: 100vw;
+}
